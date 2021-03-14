@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Debug\poscpantalla.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Debug\poscpantalla.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Debug\poscpantalla.exe.config
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Debug\poscpantalla.exe
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Debug\poscpantalla.pdb
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Debug\poscpantalla.exe
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Debug\poscpantalla.pdb

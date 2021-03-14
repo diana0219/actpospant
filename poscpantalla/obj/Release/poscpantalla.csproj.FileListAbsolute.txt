@@ -1,0 +1,6 @@
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Release\poscpantalla.exe.config
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Release\poscpantalla.exe
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\bin\Release\poscpantalla.pdb
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Release\poscpantalla.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Release\poscpantalla.exe
+C:\Users\sebas\source\repos\poscpantalla\poscpantalla\obj\Release\poscpantalla.pdb
